@@ -10,7 +10,8 @@ output:
 ### Overview
 
 So far, not much is shared here.\
-This page contains projects related to R and statistics.
+I will add more projects as they go.\
+In general, what you can expect to find here are projects connected to R and statistics.
 
 ### Projects
 
