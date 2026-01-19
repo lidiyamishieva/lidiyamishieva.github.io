@@ -1,0 +1,21 @@
+---
+title: "lidiyamishieva"
+output:
+  html_document:
+    theme: cosmo
+---
+
+## About Me {.tabset}
+
+### Overview
+
+So far, not much is shared here.\
+This page contains projects related to **R and statistics**.
+
+### Projects
+
+-   [GitHub Portfolio](https://github.com/lidiyamishieva/portfolio)
+
+### Links
+
+-   [Personal Website](https://lidiyamishieva.github.io/)
