@@ -9,8 +9,7 @@ output:
 
 ### Overview
 
-So far, not much is shared here.\
-I will add more projects as they go.\
+So far, not much is shared here. I will add more projects as they go.\
 In general, what you can expect to find here are projects connected to R and statistics.
 
 ### Projects
