@@ -10,7 +10,7 @@ output:
 ### Overview
 
 So far, not much is shared here.\
-This page contains projects related to **R and statistics**.
+This page contains projects related to R and statistics.
 
 ### Projects
 
