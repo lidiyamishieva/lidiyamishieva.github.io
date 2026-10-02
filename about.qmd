@@ -11,11 +11,3 @@ output:
 
 So far, not much is shared here. I will add more projects as they go.\
 In general, what you can expect to find here are projects connected to R and statistics.
-
-### Projects
-
--   [GitHub Portfolio](https://github.com/lidiyamishieva/portfolio)
-
-### Links
-
--   [Personal Website](https://lidiyamishieva.github.io/)
